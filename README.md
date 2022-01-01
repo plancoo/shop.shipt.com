@@ -1,1 +1,1 @@
-# http-shop.shipt.com-
+# shop.shipt.com
